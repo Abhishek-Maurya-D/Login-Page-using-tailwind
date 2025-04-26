@@ -6,3 +6,4 @@ Description
 
 This project helped me strengthen my understanding of Tailwind’s core concepts like flexbox utilities, color theming, form styling, and responsive design.
 
+![Screenshot (763)](https://github.com/user-attachments/assets/7871c28c-406a-44da-a92c-c582c58d88a9)
