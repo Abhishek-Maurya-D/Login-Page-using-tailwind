@@ -1,0 +1,25 @@
+{
+  "name": "web-dev-by-hitesh",
+  "version": "1.0.0",
+  "description": "This repository contains my progress and practice work while learning web development through the [Complete Web Development Course](https://www.udemy.com/course/web-dev-master/) by Hitesh Choudhary on Udemy.",
+  "main": "index.js",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.4",
+    "tailwindcss": "^4.1.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhishek-Maurya-D/Web-Development.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Abhishek-Maurya-D/Web-Development/issues"
+  },
+  "homepage": "https://github.com/Abhishek-Maurya-D/Web-Development#readme"
+}
